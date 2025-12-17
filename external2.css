@@ -196,11 +196,12 @@ footer {
 
 @media screen and (max-width: 768px) {
   main {
-    height: 600px;
+    height: 700px;
     padding-top: 80px;
   }
   header {
     margin: 30px;
+    margin-top: 90px;
     padding: 20px;
   }
   .gradient {
